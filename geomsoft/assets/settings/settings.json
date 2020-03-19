@@ -1,0 +1,7 @@
+{
+    "api": "http://localhost/geomsoft/api/index.php/",
+    "ip_servidor": "",
+    "iva": 0.16,
+    "productos_iva": true,
+    "key": ""
+}
